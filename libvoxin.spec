@@ -2,13 +2,13 @@
 Summary:	Library to ease the integration of voxin on 64-bit architectures
 Summary(pl.UTF-8):	Biblioteka ułatwiająca integrację voxina na architeksturach 64-bitowych
 Name:		libvoxin
-Version:	1.6.0
+Version:	1.6.1
 Release:	1
 License:	LGPL v2.1+, MIT, BSD
 Group:		Libraries
 #Source0Download: https://github.com/Oralux/libvoxin/tags
 Source0:	https://github.com/Oralux/libvoxin/archive/%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	6c233a303568d66bf283f88329905cde
+# Source0-md5:	de89b996606b2b8f7d05017d0235fed7
 URL:		https://oralux.org/
 BuildRequires:	gcc >= 6:4.7
 BuildRequires:	inih-devel
